@@ -1,1 +1,1 @@
-# golang-course-udemy
+# Golang Course Udemy
